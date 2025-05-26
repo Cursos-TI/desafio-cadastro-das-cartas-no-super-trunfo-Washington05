@@ -21,7 +21,7 @@ int main() {
     float pib2;
     int pontosTuristicos2;
 
-    printf("Bem Vindo Ao Super Trufo.\n");
+    printf("BEM VINDO AO SUPER TRUNFO!.\n");
 
     // --------- Carta 1 ---------
     printf("Cadastrar Carta 1: ");
